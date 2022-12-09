@@ -1,0 +1,195 @@
+#cover{
+    background-image: url("image/homepage.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    width: auto;
+    float: auto;
+    margin-top: 5px;
+    
+}
+
+.lists{
+    display: inline-block;
+    padding: 30px 70px;
+    
+}
+
+a {
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+    font-size: 2vw;
+}
+
+a:hover{
+    color: black;
+    transition: 0.5s;
+}
+
+#myHeader
+{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.5vw;
+    text-align: center;
+    color: rgb(177, 123, 228);
+}
+
+.aboutMe 
+{
+    font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+.intro{
+    background-color: rgb(206, 179, 231);
+    color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#follow{
+
+}
+#followMe
+{ font-family:'Covered By Your Grace', cursive ;
+    text-align: center;
+}
+
+#linkedin
+{   margin-top: -20px;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#interest{
+    background-image: url("image/homepage.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.myCover
+{    background-image: url("image/pink.png");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.myInterests
+    {font-family: 'Abril Fatface', cursive;
+    color: rgb(182, 127, 233);
+    font-size: 22px;
+    text-align: center;
+
+}
+.flight{
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.travel{
+        color: #9e373700;
+        text-decoration: none;
+        font-family: 'Lobster', cursive;
+        font-size: 2vw;
+}
+    
+    a:hover{
+        color: rgb(0, 0, 0);
+        transition: 0.5s;
+
+    
+}
+
+.flex-container{
+    display: flex;
+}
+
+.flex-child{
+    flex:1;
+}
+
+.flex-child{
+    flex:1;
+}
+
+.flex-child: first-child{
+    margin-right: 20px;
+}
+
+.guestbook{      font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(177, 123, 228);
+}
+#thankyou
+{
+    height: 300px;
+    width: 300px;
+    border: 5px solid rgb(177, 123, 228);
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#center{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#fill-in{
+    margin-left: -500px;
+}
+
+.title 
+{
+    font-family: 'Covered By Your Grace', cursive;
+    color: rgb(177, 123, 228);
+    font-size: 20px;
+}
+
+.type{
+    width: 100%;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 4px solid rgb(177, 123, 228);
+    border-radius: 5px;
+}
+#button1{
+    background-color: rgb(255, 255, 255);
+  color: rgb(177, 123, 228);
+  border: 2px solid rgb(177, 123, 228); 
+  text-align: center;
+
+}
+#button1:hover {
+    background-color:rgb(177, 123, 228); 
+    color: white;
+    cursor: pointer;
+  }
+
+  .jobTitle{
+    font-family: 'Covered By Your Grace', cursive;
+    color:white;
+    font-size: 25px;
+    background-color: rgb(177, 123, 228);
+  }
+
+  .description{
+    font-family: 'Nunito Sans', sans-serif;
+  }
+
+  #job{
+    border:1px solid;
+    width: auto;
+  }
+
+  tr:hover {background-color: rgba(128, 0, 128, 0.24);}
